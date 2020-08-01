@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png">.</img>
 
-♻️ Ecoleta é um projeto Open Source desenvolvido na semana Next Level Week (1.0) da Rocketseat utilizando as tecnologias TypeScript, Node, React e React Native.
+♻️ Ecoleta é um projeto Open Source desenvolvido na semana Next Level Week (1.0) da Rocketseat utilizando as tecnologias Javascript, Node, Nunjucks e Sqlite.
 
 
 🚀 OBJETIVO
